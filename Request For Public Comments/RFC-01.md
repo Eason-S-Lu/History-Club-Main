@@ -11,7 +11,7 @@ File Summary:Change the file "High School History Club Charter"<br>
 We, the members of the High School History Club, recognize the importance of understanding the past to shape a better future. Our club is dedicated to fostering an interest in history, promoting cultural understanding, and creating a safe space for the exchange of ideas. By exploring the stories, people, and events that have shaped our world, we aim to enrich our understanding of the present and inspire meaningful action for the future.<p>
 
 <h2>Article I: Name</h2>
-The name of this club shall be <b><font color = "red">[please insert a name here]</font></b>.<p>
+The name of this club shall be The History Club<p>
 
 <h2>Article II: Purpose</h2>
 The purpose of this club shall be to:<br>
