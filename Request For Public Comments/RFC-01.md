@@ -1,16 +1,15 @@
-Meta:
-UUID:"f542325a-f26a-4867-ab35-02c5a5e248d0"
-Date:"April 21 2023"
-Time:"9:05:55 PM PDT"
-Creater:"Eason-S-Lu"
---------------------------------------------
-File:
-Current Charter: None.
-Proposed Charter:
-"
+Meta:<br>
+UUID:"f542325a-f26a-4867-ab35-02c5a5e248d0"<br>
+Date:"April 21 2023"<br>
+Time:"9:05:55 PM PDT"<br>
+Creater:"Eason-S-Lu"<br>
+--------------------------------------------<br>
+File:<br>
+Current Charter: None.<br>
+Proposed Charter:<p>
 <h1>High School History Club Charter</h1>
 <h2>Preamble</h2>
-We, the members of the High School History Club, recognize the importance of understanding the past to shape a better future. Our club is dedicated to fostering an interest in history, promoting cultural understanding, and creating a safe space for the exchange of ideas. By exploring the stories, people, and events that have shaped our world, we aim to enrich our understanding of the present and inspire meaningful action for the future.
+We, the members of the High School History Club, recognize the importance of understanding the past to shape a better future. Our club is dedicated to fostering an interest in history, promoting cultural understanding, and creating a safe space for the exchange of ideas. By exploring the stories, people, and events that have shaped our world, we aim to enrich our understanding of the present and inspire meaningful action for the future.<p>
 
 <h2>Article I: Name</h2>
 The name of this club shall be [please insert a name here].
