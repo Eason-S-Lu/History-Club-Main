@@ -32,6 +32,10 @@ The officers of this club shall be President, Vice President, Secretary, and Tre
 3.The Secretary shall keep a record of meetings and maintain club records<br>
 4.The Treasurer shall keep financial records and handle club finances.<br>
 <h3>Elections</h3>
+Elections will be held onece a year, with the elction date held between March 15th and Apr 30th.<br>
+The method the election will take place will be direct democracy, and complying with the rules in CCR-01 and subsequent regulations.<br>
+<h3>Impeachment</h3>
+Any officer whose actions or behavior violates the purpose and values of the club may be subject to impeachment by a two-thirds vote of the members present at a meeting where the proposed impeachment has been submitted in writing at least one week prior. The impeached officer shall be removed from their position.
 
 <h4>Impeachment</h3>
 Any officer whose actions or behavior violates the purpose and values of the club may be subject to impeachment by a two-thirds vote of the members present at a meeting where the proposed impeachment has been submitted in writing at least one week prior. The impeached officer shall be removed from their position.<p>
