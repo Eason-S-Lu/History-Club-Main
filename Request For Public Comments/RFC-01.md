@@ -4,9 +4,8 @@ Date:"April 21 2023"<br>
 Time:"9:05:55 PM PDT"<br>
 Creater:"Eason-S-Lu"<br>
 --------------------------------------------<br>
-File:<br>
-Current Charter: None.<br>
-Proposed Charter:<p>
+File Summary:Change the file "High School History Club Charter"<br>
+
 <h1>High School History Club Charter</h1>
 <h2>Preamble</h2>
 We, the members of the High School History Club, recognize the importance of understanding the past to shape a better future. Our club is dedicated to fostering an interest in history, promoting cultural understanding, and creating a safe space for the exchange of ideas. By exploring the stories, people, and events that have shaped our world, we aim to enrich our understanding of the present and inspire meaningful action for the future.<p>
