@@ -11,7 +11,7 @@ File Summary:Change the file "High School History Club Charter"<br>
 We, the members of the High School History Club, recognize the importance of understanding the past to shape a better future. Our club is dedicated to fostering an interest in history, promoting cultural understanding, and creating a safe space for the exchange of ideas. By exploring the stories, people, and events that have shaped our world, we aim to enrich our understanding of the present and inspire meaningful action for the future.<p>
 
 <h2>Article I: Name</h2>
-The name of this club shall be [please insert a name here].<p>
+The name of this club shall be <b><font color = "red">[please insert a name here]</font></b>.<p>
 
 <h2>Article II: Purpose</h2>
 The purpose of this club shall be to:<br>
@@ -34,5 +34,15 @@ The officers of this club shall be President, Vice President, Secretary, and Tre
 <h2>Article V: Meetings</h2>
 Regular meetings of this club shall be held on a schedule determined by the officers. Special meetings may be called by the President or upon request of a majority of the members. A quorum shall consist of a majority of the members.<p>
 
+<h2>Article VI: Condemnation</h2>
+Any member who violates the purpose or values of this club, or engages in behavior that is harmful to the club or its members, may be subject to condemnation by a two-thirds vote of the members present at a meeting where the condemnation has been submitted in writing at least one week prior. Condemnation may result in revocation of membership and removal from club activities. The condemned member shall have the right to address the club before the vote is taken.<p>
+
+<h2>Article VII:  Impeachment</h2>
+Any officer whose actions or behavior violates the purpose and values of the club may be subject to impeachment by a two-thirds vote of the members present at a meeting where the proposed impeachment has been submitted in writing at least one week prior. The impeached officer shall be removed from their position.<p>
+
+<h3>Article VIII: Code of Club Regulation</h2>
+The members of the club may establish a code of club regulation to govern the conduct of club members and officers. The code shall be submitted in writing and may be amended by a two-thirds vote of the members present at a meeting where the proposed amendment has been submitted in writing at least one week prior. The code may include provisions for membership requirements, meeting conduct, officer duties and responsibilities, and any other matters pertinent to the operation of the club.<p>
+
 <h2>Article VI: Amendments</h2>
+This charter may be amended by a two-thirds vote of the members present at a meeting where the proposed amendment has been submitted in writing at least one week prior.<p>
 [To be worked on.]
