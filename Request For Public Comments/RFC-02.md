@@ -10,7 +10,7 @@ File Summary:Changes to CCR-01<br>
 To be eligible to run for a club officer position, a student must be a current member of the high school history club and must have attended at least three club meetings in the current school year.<br>
 
 <h2>Nominations</h2>
-Nominations for club officer positions will be open to all club members. Any member can nominate themselves or another member for a position. Nominations must be submitted in writing to the club advisor at least one week before the election.<br>
+Nominations for club officer positions will be open to all club members. Any member can nominate themselves or another member for a position. Nominations must be submitted in writing to the current club officers at least 15 days before the election.<br>
 
 <h2>Campaigning</h2>
 All candidates are allowed to campaign for their position. However, campaigning must be respectful and non-disruptive to the club meetings and activities.<br>
