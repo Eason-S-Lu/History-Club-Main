@@ -43,7 +43,7 @@ Regular meetings of this club shall be held on a schedule determined by the offi
 <h2>Article VI: Condemnation</h2>
 Any member who violates the purpose or values of this club, or engages in behavior that is harmful to the club or its members, may be subject to condemnation by a two-thirds vote of the members present at a meeting where the condemnation has been submitted in writing at least one week prior. Condemnation may result in revocation of membership and removal from club activities. The condemned member shall have the right to address the club before the vote is taken.<p>
 
-<h3>Article VIII: Code of Club Regulation</h2>
+<h2>Article VIII: Code of Club Regulation</h2>
 The members of the club may establish a code of club regulation to govern the conduct of club members and officers. The code shall be submitted in writing and may be amended by a two-thirds vote of the members present at a meeting where the proposed amendment has been submitted in writing at least one week prior. The code may include provisions for membership requirements, meeting conduct, officer duties and responsibilities, and any other matters pertinent to the operation of the club.<p>
 
 <h2>Article VI: Amendments</h2>
